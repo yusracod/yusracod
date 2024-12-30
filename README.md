@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @yusracod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-yusracod/yusracod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @yusracod  
+- 👀 I’m interested in web development, creating modern and responsive websites, and exploring front-end technologies.  
+- 🌱 I’m currently learning advanced JavaScript, React.js, and improving my UI/UX design skills.  
+- 💞️ I’m looking to collaborate on exciting web development projects, including e-commerce platforms and interactive web applications.  
+- 📫 How to reach me: Email me at yusranadeem247@gmail.com  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I can spend hours perfecting a single line of code to make my designs flawless!  
